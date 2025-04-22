@@ -1,0 +1,1 @@
+# T14S-Gen-2-AMD-5850U-Opencore
